@@ -1,6 +1,4 @@
-Sí, puedes copiar y pegar el contenido directamente en tu archivo **README.md**. Aquí tienes el texto listo y limpio:
 
-```markdown
 # Caracterización de la Cámara de Representantes
 
 Este repositorio contiene el código y recursos necesarios para realizar un análisis detallado de la **Cámara de Representantes**. La estructura del proyecto está organizada para facilitar la replicación y comprensión del flujo de trabajo.
@@ -82,11 +80,4 @@ Los resultados incluyen análisis estadísticos, visualizaciones descriptivas y 
 ## 📝 **Licencia**
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-```
 
-### Pasos para actualizar tu **README**:
-1. Abre tu archivo **README.md** en tu editor de texto o directamente en GitHub.
-2. Pega este contenido.
-3. Guarda los cambios y súbelos a tu repositorio.
-
-¡Listo! 🚀 Tu README estará bien organizado y listo para compartir.
