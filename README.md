@@ -72,12 +72,8 @@ Los resultados incluyen análisis estadísticos, visualizaciones descriptivas y 
 
 ## ✒️ **Créditos**
 
-- **Autor**: briveros23
+- **Autor**: Bryan Camilo Riveros Guarnizo briveros23
 - **Fecha de creación**: Octubre 2023
 
----
 
-## 📝 **Licencia**
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
