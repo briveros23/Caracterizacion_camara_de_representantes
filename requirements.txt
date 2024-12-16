@@ -1,0 +1,9 @@
+pandas
+plotly
+numpy
+igraph
+matplotlib
+scipy
+scikit-learn
+seaborn
+h5py
